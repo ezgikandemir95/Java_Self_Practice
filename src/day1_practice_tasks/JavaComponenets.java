@@ -1,4 +1,4 @@
-package day1_practice_tasks.day02_practice_tasks;
+package day1_practice_tasks;
 
 public class JavaComponenets {
 
